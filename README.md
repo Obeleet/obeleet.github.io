@@ -1,20 +1,27 @@
 # Phase 3 Preparation
+## General
+- Valor points are likely reset and you can earn 1600 per week.
+- New faction [Shado-Pan Assault](https://www.wowhead.com/mop-classic/faction=1435/shado-pan-assault){:target="_blank"} will reward 522 ilvl gear in exchange for valor points. 
+- Gear upgrades will cost 250 valor points each. ToT gear can be upgraded 2 x 3 ilvl. Shado-Pan Assault gear can be upgraded 2 x 4 ilvl. Unknown if tier 15 gear will be upgradable at this point.
+- Legendary quest will reward a [legendary meta gem](https://www.wowhead.com/ptr/quest=32595/the-crown-of-heaven){:target="_blank"}.
+
 ## Before release
 - Buy 40x Trillium Bar before price goes up.
 - Buy all enchants and gems you will need.
-- Stock up on Lesser Charms of Good Fortune.
+- Stock up on Lesser Charms of Good Fortune (need 50x before first raid).
 - Get 5th T14 piece in case you don't have it. Could be relevant as you transition to ToT gear.
 - Familiarize yourself with the Shado-Pan Assault 522 ilvl gear.
 - Plan out how to spend your valor points for the first few weeks. Upgrades vs. Shado-Pan Assault gear.
 - Look up your phase 3 BiS gear and priority gear path.
+- Plan out which bosses you are bonus rolling.
 
 ## Before first raid
-- Pick up new bonus roll currency.
-- Progress legendary questline.
+- Pick up new bonus roll currency [Mogu Rune of Fate].(https://www.wowhead.com/mop-classic/currency=752/mogu-rune-of-fate){:target="_blank"}
+- [Progress legendary questline.](https://www.wowhead.com/mop-classic/guide/raids/legendary-cloak-questline-overview#chapter-iii-two-princes-2){:target="_blank"}
 - Farm out 1600 valor points.
-- Kill new world bosses if available.
+- Kill new world bosses if available [Oondasta](https://www.wowhead.com/mop-classic/npc=69161/oondasta#drops){:target="_blank"} and [Nalak](https://www.wowhead.com/mop-classic/npc=69099/nalak){:target="_blank"}.
 - Farm ToT Trash until 2999/3000 rep with Shado-Pan Assault.
-- Progress new Isle of Thunder questline to become friendly with Shado-Pan Assault.
+- Progress new Isle of Thunder questline to become friendly with Shado-Pan Assault. [Reputation giving quests here](https://www.wowhead.com/mop-classic/faction=1435/shado-pan-assault#quests){:target="_blank"}
 
 
 # Boss Guides
