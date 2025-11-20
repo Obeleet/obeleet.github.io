@@ -1,3 +1,23 @@
+# Phase 3 Preparation
+## Before release
+- Buy 40x Trillium Bar before price goes up.
+- Buy all enchants and gems you will need.
+- Stock up on Lesser Charms of Good Fortune.
+- Get 5th T14 piece in case you don't have it. Could be relevant as you transition to ToT gear.
+- Familiarize yourself with the Shado-Pan Assault 522 ilvl gear.
+- Plan out how to spend your valor points for the first few weeks. Upgrades vs. Shado-Pan Assault gear.
+- Look up your phase 3 BiS gear and priority gear path.
+
+## Before first raid
+- Pick up new bonus roll currency.
+- Progress legendary questline.
+- Farm out 1600 valor points.
+- Kill new world bosses if available.
+- Farm ToT Trash until 2999/3000 rep with Shado-Pan Assault.
+- Progress new Isle of Thunder questline to become friendly with Shado-Pan Assault.
+
+
+# Boss Guides
 ## Jin'rokh the Breaker
 [Wowhead](https://www.wowhead.com/mop-classic/npc=69465/jinrokh-the-breaker){:target="_blank"}
 
