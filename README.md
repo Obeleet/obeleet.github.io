@@ -16,7 +16,7 @@
 - Plan out which bosses you are bonus rolling.
 
 ## Before first raid
-- Pick up new bonus roll currency [Mogu Rune of Fate].(https://www.wowhead.com/mop-classic/currency=752/mogu-rune-of-fate){:target="_blank"}
+- Pick up new bonus roll currency [Mogu Rune of Fate](https://www.wowhead.com/mop-classic/currency=752/mogu-rune-of-fate){:target="_blank"}.
 - [Progress legendary questline.](https://www.wowhead.com/mop-classic/guide/raids/legendary-cloak-questline-overview#chapter-iii-two-princes-2){:target="_blank"}
 - Farm out 1600 valor points.
 - Kill new world bosses if available [Oondasta](https://www.wowhead.com/mop-classic/npc=69161/oondasta#drops){:target="_blank"} and [Nalak](https://www.wowhead.com/mop-classic/npc=69099/nalak){:target="_blank"}.
