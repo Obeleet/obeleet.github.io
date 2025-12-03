@@ -34,6 +34,8 @@
 
 [Video TLDR Jonny Community](https://www.youtube.com/watch?v=3Ty8W6R_wDk){:target="_blank"}
 
+[Joardee](https://www.youtube.com/watch?v=JUe-UoP_fcU){:target="_blank"}
+
 ## Horridon
 [Wowhead](https://www.wowhead.com/mop-classic/npc=68476/horridon){:target="_blank"}
 
