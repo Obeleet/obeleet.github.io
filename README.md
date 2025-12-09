@@ -36,6 +36,8 @@
 
 [Joardee](https://www.youtube.com/watch?v=JUe-UoP_fcU){:target="_blank"}
 
+[BrettStefani](https://www.youtube.com/watch?v=1wuOLYMzaRs){:target="_blank"}
+
 ## Horridon
 [Wowhead](https://www.wowhead.com/mop-classic/npc=68476/horridon){:target="_blank"}
 
@@ -45,6 +47,8 @@
 
 [Video TLDR Jonny Community](https://www.youtube.com/watch?v=_6Xc4y7_9io){:target="_blank"}
 
+[BrettStefani](https://www.youtube.com/watch?v=YsPftpyCJ_0){:target="_blank"}
+
 ## Council of Elders
 [Wowhead](https://www.wowhead.com/mop-classic/npc=69134/kazrajin){:target="_blank"}
 
@@ -53,6 +57,8 @@
 [Slides Strategy Mad Dogs](https://docs.google.com/presentation/d/e/2PACX-1vSqkFpvjzvrFVVE5NjxY2TfK_Nntf9MFr_HdgzEaaGTc6it7FI6fLr4whBjlxbAAK7NVpcWBClERoXI/pub?start=false&loop=false&delayms=60000&slide=id.g39f63551024_0_52){:target="_blank"}
 
 [Video TLDR Jonny Community](https://www.youtube.com/watch?v=k6E3rWnbcHY){:target="_blank"}
+
+[BrettStefani](https://www.youtube.com/watch?v=5FCmCHfiz9Y){:target="_blank"}
 
 ## Tortos
 [Wowhead](https://www.wowhead.com/mop-classic/npc=67977/tortos){:target="_blank"}
@@ -65,6 +71,8 @@
 
 [Joardee](https://www.youtube.com/watch?v=p3682xyDbJM){:target="_blank"}
 
+[BrettStefani](https://www.youtube.com/watch?v=R8LXa3jgNdQ){:target="_blank"}
+
 ## Megaera
 [Wowhead](https://www.wowhead.com/mop-classic/npc=70212/flaming-head){:target="_blank"}
 
@@ -73,6 +81,8 @@
 [Slides Strategy Mad Dogs](https://docs.google.com/presentation/d/e/2PACX-1vSqkFpvjzvrFVVE5NjxY2TfK_Nntf9MFr_HdgzEaaGTc6it7FI6fLr4whBjlxbAAK7NVpcWBClERoXI/pub?start=false&loop=false&delayms=60000&slide=id.g39f63551024_0_76){:target="_blank"}
 
 [Video TLDR Jonny Community](https://www.youtube.com/watch?v=lMpqkwc9oCU){:target="_blank"}
+
+[BrettStefani](https://www.youtube.com/watch?v=pzKFtgwY6c8){:target="_blank"}
 
 ## Ji-Kun
 [Wowhead](https://www.wowhead.com/mop-classic/npc=69712/ji-kun){:target="_blank"}
@@ -83,6 +93,8 @@
 
 [Video TLDR Jonny Community](https://www.youtube.com/watch?v=_NROA1Awph0){:target="_blank"}
 
+[BrettStefani](https://www.youtube.com/watch?v=4Yz7a0Xoa2o){:target="_blank"}
+
 ## Durumu the Forgotten
 [Wowhead](https://www.wowhead.com/mop-classic/npc=68036/durumu-the-forgotten){:target="_blank"}
 
@@ -91,6 +103,8 @@
 [Slides Strategy Mad Dogs](https://docs.google.com/presentation/d/e/2PACX-1vSqkFpvjzvrFVVE5NjxY2TfK_Nntf9MFr_HdgzEaaGTc6it7FI6fLr4whBjlxbAAK7NVpcWBClERoXI/pub?start=false&loop=false&delayms=60000&slide=id.g39f63551024_0_100){:target="_blank"}
 
 [Video TLDR Jonny Community](https://www.youtube.com/watch?v=hDxTbrqf2-I){:target="_blank"}
+
+[BrettStefani](https://www.youtube.com/watch?v=U6FK0nd1f_w){:target="_blank"}
 
 ## Primordius
 [Wowhead](https://www.wowhead.com/mop-classic/npc=69017/primordius){:target="_blank"}
@@ -101,6 +115,8 @@
 
 [Video TLDR Jonny Community](https://www.youtube.com/watch?v=nBra3E85QcY){:target="_blank"}
 
+[BrettStefani](https://www.youtube.com/watch?v=ifJAVwgi-0M){:target="_blank"}
+
 ## Dark Animus
 [Wowhead](https://www.wowhead.com/mop-classic/npc=69427/dark-animus){:target="_blank"}
 
@@ -109,6 +125,8 @@
 [Slides Strategy Mad Dogs](https://docs.google.com/presentation/d/e/2PACX-1vSqkFpvjzvrFVVE5NjxY2TfK_Nntf9MFr_HdgzEaaGTc6it7FI6fLr4whBjlxbAAK7NVpcWBClERoXI/pub?start=false&loop=false&delayms=60000&slide=id.g39f63551024_0_124){:target="_blank"}
 
 [Video TLDR Jonny Community](https://www.youtube.com/watch?v=cFou9o4z83U){:target="_blank"}
+
+[BrettStefani](https://www.youtube.com/watch?v=TteKwbiJAwk){:target="_blank"}
 
 ## Iron Qon
 [Wowhead](https://www.wowhead.com/mop-classic/npc=68078/iron-qon){:target="_blank"}
@@ -119,6 +137,8 @@
 
 [Video TLDR Jonny Community](https://www.youtube.com/watch?v=lPFAl0Qgxzw){:target="_blank"}
 
+[BrettStefani](https://www.youtube.com/watch?v=nVXutsH5zUw){:target="_blank"}
+
 ## Twin Consorts
 [Wowhead](https://www.wowhead.com/mop-classic/npc=68905/lulin){:target="_blank"}
 
@@ -128,6 +148,8 @@
 
 [Video TLDR Jonny Community](https://www.youtube.com/watch?v=n-xzCT5lATs){:target="_blank"}
 
+[BrettStefani](https://www.youtube.com/watch?v=CCwiGDfQdOc){:target="_blank"}
+
 ## Lei Shen
 [Wowhead](https://www.wowhead.com/mop-classic/npc=68397/lei-shen){:target="_blank"}
 
@@ -136,6 +158,8 @@
 [Slides Strategy Mad Dogs](https://docs.google.com/presentation/d/e/2PACX-1vSqkFpvjzvrFVVE5NjxY2TfK_Nntf9MFr_HdgzEaaGTc6it7FI6fLr4whBjlxbAAK7NVpcWBClERoXI/pub?start=false&loop=false&delayms=60000&slide=id.g39f63551024_0_160){:target="_blank"}
 
 [Video TLDR Jonny Community](https://www.youtube.com/watch?v=ECm9p1SDGbo){:target="_blank"}
+
+[BrettStefani](https://www.youtube.com/watch?v=UwvN5Gvmbps){:target="_blank"}
 
 ## Ra-den
 [Wowhead](https://www.wowhead.com/mop-classic/npc=69473/ra-den){:target="_blank"}
