@@ -2,7 +2,7 @@
 ## General
 - Valor points are reset and you can earn 1600 per week.
 - New faction [Shado-Pan Assault](https://www.wowhead.com/mop-classic/faction=1435/shado-pan-assault){:target="_blank"} will reward 522 ilvl gear in exchange for valor points. 
-- Gear upgrades will cost 250 valor points each. ONLY gear that has thunderforged variants can be upgraded ToT gear can be upgraded 2 x 3 ilvl. Thunderforged gear itsel cannot be upgraded.
+- Gear upgrades will cost 250 valor points each. ONLY gear that has thunderforged variants can be upgraded 2 x 3 ilvl. Thunderforged gear itsel cannot be upgraded.
 - Legendary quest will reward a [legendary meta gem](https://www.wowhead.com/ptr/quest=32595/the-crown-of-heaven){:target="_blank"}.
 
 ## Before release
@@ -82,6 +82,8 @@
 
 [Video TLDR Jonny Community](https://www.youtube.com/watch?v=lMpqkwc9oCU){:target="_blank"}
 
+[Joardee](https://www.youtube.com/watch?v=mc7yYQ0EFqY){:target="_blank"}
+
 [BrettStefani](https://www.youtube.com/watch?v=pzKFtgwY6c8){:target="_blank"}
 
 ## Ji-Kun
@@ -114,6 +116,8 @@
 [Slides Strategy Mad Dogs](https://docs.google.com/presentation/d/e/2PACX-1vSqkFpvjzvrFVVE5NjxY2TfK_Nntf9MFr_HdgzEaaGTc6it7FI6fLr4whBjlxbAAK7NVpcWBClERoXI/pub?start=false&loop=false&delayms=60000&slide=id.g39f63551024_0_112){:target="_blank"}
 
 [Video TLDR Jonny Community](https://www.youtube.com/watch?v=nBra3E85QcY){:target="_blank"}
+
+[Joardee](https://www.youtube.com/watch?v=WcukdaJkns4){:target="_blank"}
 
 [BrettStefani](https://www.youtube.com/watch?v=ifJAVwgi-0M){:target="_blank"}
 
