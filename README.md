@@ -169,3 +169,5 @@
 [Slides Strategy Mad Dogs](https://docs.google.com/presentation/d/e/2PACX-1vSqkFpvjzvrFVVE5NjxY2TfK_Nntf9MFr_HdgzEaaGTc6it7FI6fLr4whBjlxbAAK7NVpcWBClERoXI/pub?start=false&loop=false&delayms=60000&slide=id.g39f63551024_0_172){:target="_blank"}
 
 [Video TLDR Jonny Community](https://www.youtube.com/watch?v=ZNuEd3-wOHA){:target="_blank"}
+
+[BrettStefani](https://www.youtube.com/watch?v=1AZEZVMEacI){:target="_blank"}
